@@ -23,7 +23,7 @@ This project is a simple yet challenging Tic-Tac-Toe (XOX) game developed using 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/ahmetalper0/tic-tac-toe.git
+   git clone https://github.com/ahmetalper0/tic-tac-toe-minimax.git
    ```
 2. Install the required library:
    ```
